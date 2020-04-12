@@ -1,0 +1,48 @@
+header{
+    background-color:#777575;
+    margin-left: 0cm;
+    margin-top: 0em;}
+
+.navbar-brand{
+    margin-left: 5.0em;
+    color: #000000;
+    font-weight: 600;
+    font-size: 3.4em;
+    text-align: center;}
+
+.sobre {
+    width: 900px;
+    margin: 0 auto;
+    color: black;
+    background-color: #777575;
+    text-align: center;}
+
+  .sobre {
+    margin-top: 2.5em;}
+
+  .sobre > h1, 
+  .sobre > h2 {
+    font-weight: 500;
+    margin-bottom: 0.5em;}
+
+  .sobre > h1 {
+    font-size: 2,3em;}
+
+  .sobre > h2{
+    border-top: 1px solid rgb(0, 0, 0);
+    margin-top: 2.3em;
+    padding-top: 2.3em;}
+
+  .sobre p, 
+  .sobre li {
+    font-size: 1.2em;
+    font-weight: 300;
+    text-align: justify;}
+
+  .sobre li {
+    margin-bottom: 0.5em; }
+
+  .sobre ul {
+    margin-top: 1.2em;
+    margin-left: 2em; }
+    

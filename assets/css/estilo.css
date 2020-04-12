@@ -1,0 +1,64 @@
+header{
+    background-color:#777575;
+    margin-left: 0cm;
+    margin-top: -5em;
+    margin-bottom: -1cm;}
+
+.navbar-brand{
+        margin-left: 5.2em;
+        color: #000000;
+        font-weight: 600;
+        font-size: 3.4em;
+        text-align: center;}
+
+.topi{
+    width: 800px;
+    margin: 0 auto;
+    color: black;
+    text-align: center;}
+    
+.topi {
+    margin-top: 2.5em;}
+
+  .topi > h1 {
+    font-weight: 500;
+    margin-bottom: 0.5em;
+    font-size: 2,3em;}
+
+  .topi > h1{
+    border-top: 0.5px solid rgb(0, 0, 0);
+    margin-top: 0em;
+    padding-top: 1.5em;}
+
+body{
+    background-color: #777575;
+    padding: 7%;}
+    
+#equipamentos{
+    padding: 3.8em 0;}
+
+.topi{
+    width: 1100px;
+    margin: 0 auto;
+    margin-left: 1.0em;
+    margin-top: 2.5em;
+    font-weight: 400;
+    font-size: 1.2em;}
+
+    .topi>h1{
+  color: #000000;}
+
+#primeiro{
+    color: #000000;
+}
+
+#segundo{
+    color: #000000;}
+
+footer{
+    padding: 2em 0;
+    background-color: #777575;
+    color: rgb(255, 255, 255);
+    font-size: 0.8em;
+    text-align: center;}
+
